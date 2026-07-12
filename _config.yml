@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name:Dehui
-middle_name: 
+first_name: Dehui
+middle_name:" "
 last_name: Chen
 contact_note: >
   Email is the preferred way to contact me.
